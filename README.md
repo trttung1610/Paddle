@@ -50,7 +50,7 @@ Vì vậy ckpt của của 2 mô hình trên sẽ được đội chọn để x
   ```
   sh scripts/export_ABInet.sh
   ```
-  -SVTR :
+  - SVTR :
   ```
   sh scripts/export_SVTR.sh
   ```
