@@ -18,7 +18,7 @@ img/im3671.jpg_box1.jpg	m
 img/im3671.jpg_box2.jpg	ĐC:
 img/im3671.jpg_box3.jpg	K
 ```
-Tại đậy , đội sẽ chia bộ new_train được BTC cung cấp với tỉ lệ là train : 0.95 , val : 0.05
+Tại đây , đội sẽ chia bộ new_train được BTC cung cấp với tỉ lệ là train : 0.95 , val : 0.05
 
 ## 2. Train model
 Đội đã điều chỉnh file config để phù hợp và tối ưu với cuộc thi .
