@@ -1,7 +1,11 @@
 # Hướng dẫn sử dụng PaddleOCR
 
 ## 0. Cài đặt môi trường
-- Load [Docker Image](https://hub.docker.com/repository/docker/trttung1610/bkai_paddle/tags?page=1&ordering=last_updated) 
+- Load Docker :
+  ``
+  docker pull trttung1610/bkai_paddle:latest
+  
+  ``
 ```
 cd PaddleOCR 
 pip install -r requirements.txt
