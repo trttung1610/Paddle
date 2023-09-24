@@ -2,10 +2,10 @@
 
 ## 0. Cài đặt môi trường
 - Load Docker :
-  ``
-  docker pull trttung1610/bkai_paddle:latest
+``
+docker pull trttung1610/bkai_paddle:latest
   
-  ``
+``
 ```
 cd PaddleOCR 
 pip install -r requirements.txt
