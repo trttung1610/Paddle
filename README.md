@@ -7,13 +7,13 @@ docker pull trttung1610/bkai_paddle:latest
   
 ```
 ```
-cd PaddleOCR 
+cd Paddle
 pip install -r requirements.txt
 
 ```
 
 ## 1. Chuẩn bị data
-Chuân bị data như sau vào thư mục PaddleOCR/: 
+Chuân bị data như sau vào thư mục Paddle: 
 
 train.txt, val.txt có dạng sau: `img_path <tab> text_label`
 ```
