@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 
 ## 1. Chuẩn bị data
-Chuân bị data như sau vào thư mục Paddle: 
+Chuẩn bị data như sau vào thư mục Paddle: 
 
 train.txt, val.txt có dạng sau: `img_path <tab> text_label`
 ```
